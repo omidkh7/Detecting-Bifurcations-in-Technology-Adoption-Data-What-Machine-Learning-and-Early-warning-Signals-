@@ -1,2 +1,2 @@
-# Learning_Bifurcations_in_Technology_Adoption
+# Detecting Bifurcations in Technology Adoption Data: What Machine Learning and Early-warning Signals Can and Cannot Reveal?
 Code for replicating the results of "Learning Bifurcations in Technology Adoption"
